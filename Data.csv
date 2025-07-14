@@ -1,0 +1,251 @@
+Make,Model,Year,Zip Code,Vehicle Service,Gap,Maintenance,Dent & Ding,Appearance,Windshield,Key Replacement,Theft
+KIA,Sportage,2021,46815,Y,Y,Y,N,N,Y,Y,N
+Ford,Bronco,2024,74561,N,N,N,N,N,N,Y,N
+GM,SIERRA,2022,90210,Y,Y,Y,Y,Y,Y,Y,N
+Telsa,3,2020,35511,Y,Y,Y,Y,Y,N,Y,Y
+Mazda,Sedan,2016,95102,Y,Y,N,Y,N,Y,Y,Y
+Mercedes-Benz,GLA,2019,90004,N,Y,N,Y,N,N,N,N
+Cadillac,Wagon,2015,46815,Y,N,N,N,N,N,N,N
+Cadillac,SUV,2019,85015,N,N,Y,Y,Y,N,Y,Y
+Honda,Civic,2021,92109,N,N,N,Y,N,N,N,Y
+Volvo,Convertible,2021,78209,Y,N,Y,N,Y,Y,Y,N
+Mini,Hatchback,2018,90012,N,N,Y,Y,Y,Y,N,Y
+Kia,Rio,2019,92104,N,N,Y,Y,N,Y,Y,N
+Ford,Fusion,2016,10005,Y,N,N,N,Y,N,N,Y
+Scion,Wagon,2020,85010,N,N,N,N,Y,N,N,N
+Genesis,Pickup,2018,19115,Y,Y,N,N,Y,N,Y,N
+Lincoln,Pickup,2022,92111,N,N,N,Y,Y,Y,N,Y
+Subaru,Impreza,2018,85003,Y,Y,Y,Y,Y,N,N,N
+Audi,Convertible,2022,90015,Y,Y,Y,N,Y,Y,Y,N
+GMC,Coupe,2024,19110,Y,Y,N,Y,Y,N,Y,N
+Chrysler,Hatchback,2018,95110,Y,Y,N,N,Y,Y,Y,N
+Acura,Convertible,2019,85013,N,Y,N,Y,N,Y,Y,Y
+GMC,Hatchback,2022,78210,Y,N,N,Y,N,N,Y,Y
+Ford,Escape,2024,90003,N,N,N,Y,Y,N,Y,N
+Jaguar,Pickup,2020,75206,Y,Y,Y,N,Y,N,N,Y
+Mercedes-Benz,GLA,2020,60605,N,N,Y,Y,N,Y,Y,N
+Fiat,SUV,2023,85015,N,Y,N,Y,Y,Y,Y,N
+Buick,Wagon,2019,92109,Y,N,Y,Y,Y,N,N,Y
+Ford,Ranger,2019,77013,N,N,N,Y,Y,N,N,Y
+Mini,Sedan,2016,78210,N,N,N,Y,Y,Y,N,Y
+GMC,Pickup,2017,19106,N,Y,Y,Y,Y,N,N,N
+Chevrolet,Camaro,2024,10014,N,Y,Y,N,N,N,Y,N
+Nissan,Maxima,2022,19111,N,Y,Y,N,Y,Y,Y,Y
+Infiniti,Wagon,2023,92113,N,N,Y,Y,Y,N,N,N
+Scion,Pickup,2024,19103,Y,N,Y,N,Y,Y,Y,Y
+Buick,Pickup,2023,19104,Y,N,N,Y,N,Y,N,Y
+Nissan,Pathfinder,2015,19104,N,N,Y,N,N,Y,Y,N
+Mercedes-Benz,GLC,2023,92103,Y,N,N,N,Y,N,Y,N
+Alfa Romeo,Coupe,2016,10005,Y,N,N,Y,N,N,N,N
+Audi,Sedan,2021,75202,N,Y,Y,Y,N,N,N,N
+Land Rover,Wagon,2021,85008,Y,N,Y,N,Y,Y,Y,Y
+Cadillac,Wagon,2020,90003,N,N,Y,Y,Y,N,N,N
+Acura,SUV,2021,78208,Y,Y,N,Y,N,Y,Y,Y
+Dodge,SUV,2022,70112,N,Y,Y,N,N,Y,N,N
+Lincoln,SUV,2022,19107,N,N,N,N,Y,N,N,N
+Kia,Stinger,2024,77001,Y,N,N,N,Y,N,N,N
+Porsche,Wagon,2015,90007,Y,N,N,Y,N,N,N,Y
+Cadillac,Pickup,2016,75207,N,Y,Y,Y,N,N,N,N
+Toyota,RAV4,2018,90013,Y,N,N,Y,N,N,N,N
+Land Rover,SUV,2021,75209,N,N,Y,N,N,N,Y,Y
+Lincoln,Wagon,2020,75215,Y,N,Y,Y,Y,Y,N,N
+Jeep,Sedan,2015,85014,N,Y,N,N,N,N,N,N
+Infiniti,Pickup,2020,75215,N,N,Y,Y,Y,Y,N,Y
+Lexus,Hatchback,2023,85014,N,N,Y,N,N,Y,Y,Y
+Tesla,Model S,2021,32801,N,Y,N,Y,N,Y,N,N
+Mini,Convertible,2023,85006,Y,N,Y,Y,N,N,N,Y
+Jeep,Hatchback,2022,90011,Y,Y,Y,N,Y,Y,N,Y
+BMW,7 Series,2020,95113,N,Y,Y,N,N,Y,Y,Y
+Isuzu,Hatchback,2016,77004,N,Y,Y,N,N,N,N,Y
+Cadillac,Pickup,2023,90012,N,N,Y,N,Y,N,Y,Y
+BMW,X1,2017,60609,N,Y,Y,Y,Y,N,Y,Y
+Mazda,Convertible,2021,98101,N,N,N,Y,Y,N,Y,Y
+Land Rover,Wagon,2018,10011,Y,N,Y,Y,N,Y,Y,N
+Mazda,Convertible,2023,75212,N,N,N,Y,Y,N,N,Y
+Audi,Convertible,2018,90016,Y,Y,Y,N,Y,Y,Y,Y
+Alfa Romeo,Wagon,2017,90007,N,Y,N,Y,N,Y,N,N
+Suzuki,Pickup,2020,60609,N,N,N,N,Y,Y,N,N
+Buick,Pickup,2021,19103,N,Y,N,Y,N,Y,Y,Y
+Hyundai,Kona,2024,77014,N,N,Y,Y,Y,N,Y,N
+Volvo,Pickup,2020,75202,N,N,N,Y,N,Y,Y,Y
+Jeep,Sedan,2020,78205,Y,Y,Y,N,Y,N,Y,Y
+Land Rover,Coupe,2019,92102,N,Y,Y,Y,Y,Y,N,N
+Jaguar,SUV,2019,60612,N,Y,Y,Y,Y,N,Y,Y
+Hyundai,Sonata,2020,90010,N,N,N,Y,Y,N,Y,Y
+Infiniti,Coupe,2024,85012,N,N,Y,N,Y,Y,N,N
+Chrysler,Hatchback,2015,78209,N,Y,N,N,Y,Y,Y,N
+Genesis,Convertible,2021,85009,Y,N,Y,N,N,N,N,Y
+Genesis,Wagon,2017,19104,N,N,Y,N,Y,Y,N,Y
+Toyota,Yaris,2018,90015,N,N,N,Y,Y,N,Y,Y
+Suzuki,Hatchback,2017,90008,Y,Y,Y,Y,Y,N,Y,N
+Volkswagen,Beetle,2018,19113,Y,Y,N,N,Y,N,Y,N
+Tesla,Model Y,2021,75201,Y,Y,N,N,Y,Y,N,Y
+Volkswagen,Jetta,2017,33101,Y,Y,N,Y,Y,N,Y,N
+Chrysler,Pickup,2017,60607,N,N,Y,N,Y,N,Y,N
+Ram,Coupe,2017,75208,N,Y,Y,Y,Y,N,Y,Y
+Chrysler,Hatchback,2016,75209,N,Y,Y,N,N,N,Y,Y
+Fiat,Pickup,2023,32801,N,Y,Y,N,Y,Y,Y,N
+Volkswagen,Tiguan,2017,92101,N,N,N,Y,Y,N,N,N
+Jaguar,Wagon,2023,85003,Y,N,N,Y,N,N,N,Y
+Volvo,Wagon,2023,75211,N,Y,N,N,Y,N,N,N
+Dodge,Coupe,2018,77012,Y,N,Y,Y,Y,Y,Y,Y
+BMW,3 Series,2024,77012,Y,Y,N,N,Y,Y,Y,Y
+Tesla,Model 3,2017,75213,Y,N,Y,N,N,Y,N,N
+Ford,Edge,2019,75205,Y,N,Y,Y,N,N,Y,Y
+Volkswagen,Arteon,2024,95102,N,N,N,N,N,N,Y,Y
+Porsche,Coupe,2017,95112,N,N,Y,Y,N,N,N,N
+Chrysler,Pickup,2015,33101,Y,N,N,N,N,N,N,N
+Volkswagen,Atlas,2017,75211,N,Y,Y,Y,N,Y,Y,N
+Buick,Coupe,2018,95115,Y,Y,N,N,N,Y,Y,Y
+Subaru,Ascent,2024,75204,Y,Y,Y,N,Y,N,N,N
+Volkswagen,Jetta,2016,92109,N,N,Y,Y,Y,Y,N,N
+Toyota,Avalon,2022,10010,Y,N,N,N,N,Y,N,Y
+Scion,SUV,2015,10003,Y,Y,Y,N,N,N,Y,Y
+Genesis,SUV,2016,60615,N,Y,Y,Y,Y,N,Y,N
+Ram,Pickup,2020,19103,N,Y,Y,Y,Y,N,Y,N
+Genesis,SUV,2023,75211,Y,N,N,Y,N,Y,Y,N
+Chevrolet,Silverado,2020,10019,Y,Y,N,Y,Y,Y,N,Y
+Tesla,Model 3,2018,78201,N,Y,N,Y,Y,N,N,N
+Lincoln,Wagon,2020,10020,N,N,Y,Y,Y,N,N,N
+GMC,Pickup,2015,75208,N,N,N,Y,N,Y,N,Y
+Cadillac,Pickup,2018,19108,N,Y,N,Y,Y,N,N,Y
+Genesis,Sedan,2022,10020,N,N,Y,Y,N,N,N,Y
+Ram,Sedan,2024,90011,Y,N,Y,Y,Y,N,Y,Y
+Volkswagen,Arteon,2024,78207,N,Y,Y,Y,N,Y,Y,Y
+Mitsubishi,Sedan,2024,90013,N,Y,Y,N,N,N,Y,N
+Lexus,Wagon,2020,63101,N,N,Y,Y,N,Y,N,Y
+Scion,Coupe,2024,77002,Y,N,N,Y,N,N,N,N
+Buick,Sedan,2024,95112,N,N,N,N,Y,N,N,N
+Scion,Pickup,2023,78208,Y,N,Y,Y,Y,N,N,Y
+Mazda,Sedan,2015,74561,N,N,N,N,N,N,N,Y
+Audi,Wagon,2019,78201,N,N,Y,N,Y,Y,Y,N
+Buick,Hatchback,2021,75212,Y,N,N,Y,N,Y,N,N
+Ford,Edge,2023,95103,N,N,N,Y,N,N,Y,Y
+Mini,Sedan,2015,78201,N,Y,Y,Y,Y,Y,N,Y
+Suzuki,Coupe,2022,78207,Y,N,N,N,N,Y,N,Y
+Dodge,SUV,2020,46815,N,Y,Y,N,Y,Y,N,Y
+Mini,Pickup,2019,70112,Y,N,Y,N,Y,Y,Y,Y
+Tesla,Model X,2020,77014,N,N,N,N,Y,N,Y,Y
+BMW,5 Series,2016,10016,N,Y,Y,Y,N,N,N,N
+Lincoln,SUV,2022,19115,Y,N,N,N,Y,Y,Y,Y
+Fiat,Wagon,2016,92111,Y,Y,N,N,Y,Y,Y,Y
+Volkswagen,Golf,2020,60614,Y,Y,Y,N,N,Y,Y,Y
+Chrysler,SUV,2017,19107,Y,Y,N,N,N,Y,N,N
+Cadillac,Wagon,2018,60602,N,Y,N,Y,N,N,N,Y
+Volkswagen,Golf,2022,90001,N,N,Y,Y,N,N,N,N
+Mini,Pickup,2024,85005,Y,Y,N,Y,Y,Y,Y,N
+Suzuki,Hatchback,2015,98101,Y,Y,Y,Y,Y,Y,N,N
+GMC,SUV,2016,60605,N,Y,N,N,Y,N,N,N
+Chrysler,Pickup,2023,92115,Y,N,Y,N,Y,Y,N,Y
+Isuzu,Wagon,2015,75204,Y,Y,Y,Y,Y,Y,Y,N
+BMW,5 Series,2015,90002,N,N,N,N,N,N,N,N
+Land Rover,Pickup,2021,85003,N,Y,Y,Y,Y,Y,Y,N
+Mini,Hatchback,2018,95105,N,Y,Y,Y,Y,Y,N,Y
+Chevrolet,Equinox,2023,90007,Y,Y,Y,Y,N,Y,N,Y
+Mercedes-Benz,CLA,2020,75215,N,N,N,Y,N,Y,N,N
+Fiat,Convertible,2023,95101,Y,N,Y,N,N,Y,Y,N
+Mini,Sedan,2015,78203,N,Y,Y,Y,Y,Y,Y,N
+Alfa Romeo,Coupe,2021,77013,N,Y,N,N,N,Y,Y,N
+BMW,X7,2016,90003,Y,N,Y,N,N,Y,N,N
+Chevrolet,Malibu,2015,10016,Y,N,N,N,N,Y,N,N
+Subaru,Crosstrek,2021,92111,Y,Y,Y,N,N,Y,Y,Y
+Audi,SUV,2021,75208,N,N,N,N,Y,N,Y,Y
+Dodge,Sedan,2019,10013,Y,Y,N,Y,Y,Y,N,N
+Volvo,Sedan,2015,10020,N,Y,N,Y,Y,N,Y,N
+Mercedes-Benz,GLE,2016,60612,Y,N,N,Y,Y,N,Y,N
+Dodge,Pickup,2018,60610,Y,Y,N,N,Y,N,Y,Y
+Chrysler,SUV,2021,92103,Y,Y,Y,N,Y,Y,Y,N
+Toyota,Yaris,2015,60608,Y,Y,N,N,Y,N,N,Y
+Mazda,Wagon,2017,90005,Y,N,N,Y,Y,N,Y,Y
+Alfa Romeo,Pickup,2022,77003,Y,Y,Y,Y,Y,N,Y,N
+Volkswagen,Arteon,2021,60601,N,N,Y,Y,Y,Y,Y,N
+Honda,HR-V,2015,85007,N,Y,N,Y,Y,N,Y,N
+Jaguar,Wagon,2022,90012,N,Y,Y,N,N,N,Y,Y
+Buick,Coupe,2020,19115,Y,Y,Y,N,N,Y,Y,N
+Isuzu,Sedan,2019,75212,N,Y,Y,Y,N,Y,Y,Y
+Acura,Pickup,2015,90005,Y,Y,N,N,Y,Y,Y,N
+Jeep,Coupe,2020,10010,N,Y,N,N,Y,N,Y,N
+Chrysler,Wagon,2015,19111,Y,N,N,N,Y,N,N,N
+Volvo,Sedan,2021,90001,Y,N,N,Y,Y,N,Y,N
+Volvo,Pickup,2018,19115,N,Y,Y,Y,Y,N,Y,Y
+BMW,X3,2024,85008,N,Y,Y,N,N,Y,Y,Y
+Volkswagen,Golf,2023,95112,Y,Y,N,Y,N,Y,N,N
+Jaguar,Sedan,2015,75208,Y,Y,Y,Y,Y,N,Y,Y
+Cadillac,SUV,2020,75212,N,Y,Y,N,Y,Y,Y,N
+Jeep,Convertible,2016,92111,N,N,N,Y,N,Y,Y,Y
+Mitsubishi,Pickup,2021,10020,Y,N,N,N,N,Y,N,Y
+GMC,Pickup,2023,10004,N,Y,Y,N,Y,Y,Y,N
+Toyota,Camry,2024,10014,Y,N,Y,N,Y,Y,Y,N
+Fiat,Pickup,2016,75206,Y,N,N,N,Y,N,Y,Y
+Kia,Telluride,2024,19105,N,Y,N,Y,N,N,N,Y
+Honda,HR-V,2023,10011,Y,N,N,Y,N,Y,Y,Y
+Cadillac,Sedan,2017,85013,Y,Y,N,N,Y,Y,N,N
+Alfa Romeo,Hatchback,2019,19101,N,N,Y,N,N,N,Y,Y
+Porsche,Hatchback,2015,90001,N,Y,N,N,Y,N,Y,Y
+Lincoln,Hatchback,2022,77008,Y,N,Y,N,N,N,N,Y
+Audi,Wagon,2022,78208,N,Y,N,N,Y,Y,Y,Y
+Toyota,RAV4,2018,78203,N,N,Y,Y,N,Y,N,N
+Genesis,Sedan,2022,85003,N,Y,N,N,Y,Y,Y,N
+Ram,Sedan,2015,90016,Y,N,N,N,N,Y,Y,N
+Subaru,Outback,2020,77007,Y,N,N,Y,Y,N,Y,N
+BMW,4 Series,2018,75206,Y,N,N,Y,Y,N,N,N
+Fiat,Sedan,2024,90012,Y,N,Y,Y,N,N,Y,N
+Jaguar,SUV,2021,77008,Y,Y,N,N,Y,Y,N,Y
+Lexus,Wagon,2019,60605,N,N,N,N,N,N,N,N
+Fiat,Wagon,2017,92103,Y,Y,N,N,Y,Y,Y,Y
+Suzuki,Pickup,2022,10018,Y,N,N,Y,N,Y,N,Y
+Volvo,Hatchback,2018,95112,N,N,Y,N,Y,Y,N,N
+Chevrolet,Traverse,2020,92110,N,Y,N,Y,N,N,Y,N
+Ram,Pickup,2024,75207,N,Y,Y,N,N,Y,N,N
+Mazda,Hatchback,2020,78207,N,Y,N,N,N,N,N,Y
+Cadillac,Pickup,2021,19111,N,Y,Y,Y,N,N,N,N
+Fiat,Coupe,2022,92109,N,Y,Y,N,Y,N,N,N
+Mazda,SUV,2017,85013,N,Y,N,N,N,N,N,Y
+Kia,Sportage,2015,77004,N,Y,Y,N,Y,Y,Y,N
+Jeep,Hatchback,2016,92114,Y,N,N,N,N,N,Y,Y
+Chrysler,Convertible,2019,90005,Y,Y,Y,N,N,Y,N,Y
+Toyota,Prius,2016,10013,Y,Y,N,N,N,Y,Y,N
+Chevrolet,Equinox,2021,78210,Y,Y,N,Y,Y,Y,N,Y
+Alfa Romeo,Pickup,2023,10011,N,Y,Y,N,N,N,N,Y
+Infiniti,Sedan,2023,75209,N,Y,N,N,N,N,N,N
+Volvo,Pickup,2017,85008,Y,Y,Y,N,N,Y,N,Y
+Mitsubishi,Sedan,2019,78201,N,Y,Y,N,N,Y,N,Y
+Jaguar,Wagon,2016,70112,N,Y,Y,N,Y,Y,N,N
+Mitsubishi,Pickup,2022,60612,Y,Y,Y,N,Y,Y,Y,Y
+Buick,Hatchback,2020,78205,Y,N,Y,N,Y,N,N,Y
+Audi,Coupe,2018,95108,Y,N,N,Y,N,N,Y,Y
+BMW,7 Series,2022,75204,Y,N,Y,N,N,Y,N,Y
+Mazda,Sedan,2020,46815,N,Y,Y,N,Y,Y,N,N
+Kia,Telluride,2016,95101,Y,N,Y,N,N,N,N,Y
+Lexus,Hatchback,2018,78202,Y,N,N,Y,Y,Y,Y,Y
+Jeep,Hatchback,2019,77006,Y,Y,N,Y,N,Y,Y,Y
+Volkswagen,Tiguan,2023,19107,N,N,Y,N,N,Y,Y,N
+Mercedes-Benz,C-Class,2021,95115,Y,N,N,Y,Y,Y,Y,N
+Nissan,Versa,2020,85015,N,Y,Y,N,N,Y,N,N
+Nissan,Pathfinder,2022,60605,Y,Y,Y,Y,N,N,N,Y
+GMC,Hatchback,2022,78204,N,N,Y,Y,N,N,N,N
+Lexus,Wagon,2016,60615,Y,N,Y,Y,N,N,Y,Y
+Land Rover,Hatchback,2017,75213,Y,Y,N,N,N,N,Y,N
+Chevrolet,Camaro,2024,77006,Y,N,Y,N,Y,Y,Y,N
+Lexus,Pickup,2018,78210,Y,N,N,Y,Y,Y,N,N
+Audi,Sedan,2015,10003,N,Y,Y,N,Y,Y,Y,Y
+Alfa Romeo,Pickup,2016,60602,N,N,Y,Y,N,Y,N,N
+Honda,Insight,2022,92113,Y,Y,N,N,Y,N,Y,N
+Jeep,SUV,2016,85015,N,N,Y,N,Y,Y,N,N
+Audi,Sedan,2021,19109,Y,Y,N,N,Y,N,Y,N
+Lincoln,Wagon,2022,10010,N,Y,N,Y,Y,N,N,N
+Hyundai,Elantra,2020,10011,N,Y,N,N,N,Y,N,N
+Buick,Convertible,2021,90008,Y,Y,N,N,N,N,N,Y
+Chevrolet,Corvette,2020,78202,Y,N,Y,Y,Y,Y,Y,N
+Porsche,Hatchback,2022,92108,N,N,N,Y,N,Y,N,Y
+Lexus,Hatchback,2017,92115,N,Y,N,N,Y,Y,N,N
+Subaru,Crosstrek,2019,75210,Y,N,N,N,N,Y,N,N
+Acura,Convertible,2021,19112,Y,Y,Y,N,N,Y,Y,N
+Tesla,Cybertruck,2024,77007,Y,N,N,N,Y,Y,Y,N
+Lexus,Convertible,2021,60604,N,N,Y,Y,Y,Y,Y,Y
+Jeep,Coupe,2023,19103,Y,Y,Y,N,Y,N,Y,Y
+Genesis,Wagon,2015,78213,N,Y,Y,Y,N,N,Y,Y
+Fiat,SUV,2021,60604,Y,N,Y,N,Y,Y,N,N
+Jeep,SUV,2020,85015,Y,Y,N,N,N,N,N,N
+Suzuki,Hatchback,2015,97201,Y,Y,N,Y,Y,N,N,Y
+Volkswagen,ID.4,2021,77004,Y,N,Y,N,N,Y,N,N
